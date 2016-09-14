@@ -3,11 +3,11 @@ resume
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/.jpg "Logo Title Text 1")
 ---
-*My name is Suppaluck Sattam  My nickname is Ple*
+*ชื่อนางสาวศุภลักษณ์ สัตย์ธรรม ชือเล่น เปิล*
 ---
-*I am 22  years old*
+*อายุ 22 ปี เกิดวันที่ 5 มกราคม พ.ศ. 2537*
 ---
-*Master's Degree in Computer Information Systems*
+*Master's Degree in Computer Information Systems at R*
 ---
 
 
