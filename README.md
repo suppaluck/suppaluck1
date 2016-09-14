@@ -21,7 +21,8 @@ Inline-style:
 --------------------------------------------------------
 ***เพลงที่ชอบฟัง***
 ---
-(https://youtu.be/fcCDMZ94Y9Y)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src=https://i.ytimg.com/vi/oXnhIbz3hz0/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=sBQTmEeLxTOBjWngBceVgVbn-zA.jpg (https://youtu.be/oXnhIbz3hz0)
 
 
 
