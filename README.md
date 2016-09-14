@@ -3,7 +3,7 @@ resume
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/.jpg "Logo Title Text 1")
 ---
-*ชื่อ-สกุล: นางสาวศุภลักษณ์  สัตย์ธรรม*
+***ชื่อ-สกุล: นางสาวศุภลักษณ์  สัต์ยธรรม***
 ---
 *วัน/เดือน/ปีเกิด: วันพุธ ที่ 5 มกราคม พ.ศ. 2537*
 ---
