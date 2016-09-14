@@ -1,7 +1,7 @@
 # suppaluck1
 resume
 Inline-style: 
-<img class="spotlight" alt="" aria-describedby="fbPhotosSnowliftCaption" aria-busy="false" src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-9/14191960_1059719987416307_6010271190456255869_n.jpg?oh=c2910b0191771edad18fff2068737e6a&amp;oe=583F49FA"> 
+![alt text](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.0-1/p160x160/13921014_1035409926513980_8782954504339520929_n.jpg?oh=67a9d7ce0052c5a92cef17849680db26&oe=583FCCC5)
 ---
 ***ชื่อ-สกุล: นางสาวศุภลักษณ์  สัต์ยธรรม***
 ---
