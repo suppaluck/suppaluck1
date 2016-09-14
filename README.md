@@ -30,9 +30,17 @@
 
 2556 ฝีกงานที่เทศบาลตำบล จ.ป.ร ระยะเวลาในการฝึกงาน 2 เดือน
 
-***เพลงที่ชอบฟัง***
-
+###คติประจำใจ
 ---
-**Facebook**: https://www.facebook.com/
+ไม่มีคำว่าทำไม่ได้ถ้ายังไม่ลงมือทำ
+
+
+###เพลงที่ชอบฟัง
+---
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+###Facebook: https://www.facebook.com/
 
 
