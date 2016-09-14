@@ -37,7 +37,9 @@
 
 ###เพลงที่ชอบฟัง
 ---
-<a href="http://www.youtube.comhttps://i.ytimg.com/vi/fcCDMZ94Y9Y/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=F7cNR8rv7RsaNgMYPMr7rkMHXqE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/https://i.ytimg.com/vi/fcCDMZ94Y9Y/hqdefault.jpg?custom=true&w=196&h=110&stc=true&jpg444=true&jpgq=90&sp=68&sigh=F7cNR8rv7RsaNgMYPMr7rkMHXqE
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###Facebook: https://www.facebook.com/
 
